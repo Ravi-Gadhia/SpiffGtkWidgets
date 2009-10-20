@@ -1,4 +1,4 @@
-# -*- encoding: utf-8 -*-
+# -*- coding: utf-8 -*-
 ##############################################################################
 # Copyright (C) 2010 Samuel Abels
 # Copyright (C) 2004-2009 Tiny SPRL (<http://tiny.be>).
